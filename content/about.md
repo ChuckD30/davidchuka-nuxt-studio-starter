@@ -1,3 +1,3 @@
-# About Content v2
+# About my blog
 
 [Back home](/)
